@@ -29,3 +29,4 @@ The files found within the Activity 1 directory include:
 * A folder containing 3 empathy maps - one for each of the 3 IABC board members
 * An export of our user story map from StoriesOnBoard with envisioned MVPs
 * Summarized customer notes from our customer check-in on February 10
+* Our customer check-in presentation
