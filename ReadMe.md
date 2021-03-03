@@ -34,7 +34,7 @@ The files found within the Activity 1 directory include:
 The files found within the Activity 2 directory include:
 * An asset/content inventory for the current site
 * A folder containing proposed site maps for the redesign
-* A folder containing low-fidelity sketches for proposed page designs
+* A folder containing 3 design option folders that contain low-fidelity sketches for proposed page designs
 * An export of our user story map from StoriesOnBoard with envisioned MVPs
 * Summarized customer notes from our customer check-in on March 3
 * Our customer check-in presentation
