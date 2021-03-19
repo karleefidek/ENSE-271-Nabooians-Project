@@ -38,3 +38,12 @@ The files found within the Activity 2 directory include:
 * An export of our user story map from StoriesOnBoard with envisioned MVPs
 * Summarized customer notes from our customer check-in on March 3
 * Our customer check-in presentation
+### Activity 3
+The files found within the Activity 3 directory include:
+* Our high-fidelity prototype
+* Our high-fidelity site map
+* The design-to-class documentation for our high-fidelity design
+* A folder containing design and interaction screenshots for all pages of our high-fidelity prototype.
+  The folder contains subfolders for each page of the high-fidelity design.
+* An export of our user story map from StoriesOnBoard with envisioned MVPs
+* Summarized customer notes from our customer check-in on March 17
