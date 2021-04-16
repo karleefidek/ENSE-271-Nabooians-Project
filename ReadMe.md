@@ -47,3 +47,12 @@ The files found within the Activity 3 directory include:
   The folder contains subfolders for each page of the high-fidelity design.
 * An export of our user story map from StoriesOnBoard with envisioned MVPs
 * Summarized customer notes from our customer check-in on March 17
+### Activity 4
+The files found within the Activity 4 directory include:
+* A link to our WPVivid WordPress backup
+* Our final IABC presentation
+* Our instructor scrum presentation
+* Our project report and lessons learned document
+* A folder containing website design screenshots for all pages of our website
+* An export of our user story map from StoriesOnBoard with envisioned MVPs
+* Summarized customer notes from our customer check-in on April 14
